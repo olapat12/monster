@@ -137,6 +137,11 @@
 }
 
 @media only screen and (max-width: 600px) {
+  #myform{
+    width: 90%;
+  
+  }
+
   #mains{
     display: flex;
     flex-direction: column;
